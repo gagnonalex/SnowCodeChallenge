@@ -1,4 +1,4 @@
-**JSON update formatting challenge :**
+**JSON update formatting challenge**
 
 **JSON object :**  
 a copier de ce site dans ton code. whatcout, c'est gros
