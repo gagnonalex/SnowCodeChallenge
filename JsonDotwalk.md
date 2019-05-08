@@ -1,6 +1,6 @@
-##JSON update formatting challenge :
+**JSON update formatting challenge**
 
-####JSON object :   
+**JSON object :**  
 a copier de ce site dans ton code. whatcout, c'est gros
 https://www.pastiebin.com/5cd31bb987735
 
