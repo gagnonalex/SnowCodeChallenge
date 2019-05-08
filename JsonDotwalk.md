@@ -1,8 +1,7 @@
 **JSON update formatting challenge**
 
 **JSON object :**  
-a copier de ce site dans ton code. whatcout, c'est gros
-https://www.pastiebin.com/5cd31bb987735
+est fournie dans le fichier de depart
 
 **Va chercher les 3 string avec le dotwalk suivants :**
 
