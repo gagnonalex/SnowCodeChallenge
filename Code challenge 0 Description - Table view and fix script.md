@@ -1,5 +1,6 @@
 1- Faire une table custom extendant de task
 2- Faire une vue nommer "patate" ou l'on voit :  puis créer un objet de ce format ( les champ avec un * doivent être mandatory) :
+
 |first Column|Second Column|
 |--|--|
 |number (changer le numbering automatique pour qu'il soit de format : patato001000. voir/lire la doc de number maintenance ) |opened by (automatique) |
