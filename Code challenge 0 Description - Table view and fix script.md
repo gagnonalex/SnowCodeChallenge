@@ -15,4 +15,5 @@
 * ne pas mettre les noms en gras dans la vue, ils sont simplement pour aider la compréhension de la vue
 
 3- Entrer 5 records sur la table avec des descriptions 
+
 4- Rouler un fix script nommé patatoScript allant chercher sur chaque record le sys_id du assigned_to et le copier dans la description, à la suite de la description déjà inscrite (elle ne doit pas être effacée)
